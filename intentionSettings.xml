@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Add type hint for variable" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+  </component>
+</application>
