@@ -1,0 +1,106 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="Console.TableResult.Submit" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="DecreaseColumnWidth" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDuplicate" />
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowWidth" />
+  <action id="JupyterRunCellAction" />
+  <action id="JupyterRunCellSelectBelowAction" />
+  <action id="OpenElementInNewWindow" />
+  <action id="PyExecuteCellAction">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="QuickImplementations" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
+  <action id="SendEOF" />
+  <action id="Terminal.MoveToolWindowTabLeft" />
+  <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

@@ -1,0 +1,45 @@
+<keymap version="1" name="macOS Xin" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorStartNewLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="JupyterRunCellSelectBelowAction" />
+  <action id="OpenElementInNewWindow" />
+  <action id="PyExecuteCellAction">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+</keymap>
