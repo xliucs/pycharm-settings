@@ -24,6 +24,8 @@
   </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorStartNewLine" />
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -36,6 +38,10 @@
   <action id="FileChooser.GotoProject" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="JupyterRunAllAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="JupyterRunCellSelectBelowAction" />
   <action id="OpenElementInNewWindow" />
