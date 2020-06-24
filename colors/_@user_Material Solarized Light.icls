@@ -4,7 +4,7 @@
     <property name="created">2020-05-26T09:48:04</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-05-26T09:52:54</property>
+    <property name="modified">2020-06-24T15:50:15</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -35,7 +35,7 @@
     <option name="DELETED_LINES_COLOR" value="d30102" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
-    <option name="DOCUMENTATION_COLOR" value="f4eddb" />
+    <option name="DOCUMENTATION_COLOR" value="fdf6e3" />
     <option name="ERROR_HINT" value="fdd4c4" />
     <option name="FILESTATUS_ADDED" value="859900" />
     <option name="FILESTATUS_COPIED" value="2aa198" />
