@@ -28,6 +28,8 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="tensorflow_core.python.keras.api._v2.keras.layers.Conv2D" />
+        <option value="models.base_model.rppg_data_generator" />
+        <option value="DataGenerator" />
       </list>
     </option>
   </inspection_tool>
